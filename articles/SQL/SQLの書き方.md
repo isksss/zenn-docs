@@ -4,6 +4,10 @@
 
 ## 基本
 ### SELECT
+```sql
+SELECT　* FROM table1
+WHERE colum1 = ""
+```
 ### INSERT
 ### UPDATE
 ### DELETE
